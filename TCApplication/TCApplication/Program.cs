@@ -10,6 +10,7 @@ namespace TCApplication
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Dev");// Added in [dev] branch
         }
     }
 }
