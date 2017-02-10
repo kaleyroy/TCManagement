@@ -15,7 +15,7 @@ namespace TCApplication
 
             Console.WriteLine("Kaleyroy");// Added in [dev] branch
 
-	    Console.WriteLine("Clinbo"); //
+	    Console.WriteLine("Clinbo"); //This is a bug fix #5
         }
     }
 }
